@@ -45,8 +45,7 @@ Make sure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/jogendr2018s/todo-tracker-dropwizard.git
-   cd todo-tracker-dropwizard
+   git clone https://github.com/jogendr2018s/TODO-APP.git
    ```
 
 2. **Build the Application**:
