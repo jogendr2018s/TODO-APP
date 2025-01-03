@@ -1,4 +1,4 @@
-# ToDo List Application with Dropwizard and MySQL
+# ToDo List Application 
 
 ## Project Overview
 This project is a **ToDo List Application** built using the Dropwizard framework and MySQL database. The application provides RESTful APIs for task management, including creating, updating, retrieving, and deleting tasks. The project is containerized using Docker and orchestrated with Docker Compose.
