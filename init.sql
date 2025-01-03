@@ -1,0 +1,11 @@
+CREATE DATABASE IF NOT EXISTS todo_schema;
+USE todo_schema;
+
+CREATE TABLE IF NOT EXISTS todo (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Description TEXT NOT NULL,
+    Start DATE NOT NULL,
+    End DATE NOT NULL,
+    Status INT NOT NULL
+    );
