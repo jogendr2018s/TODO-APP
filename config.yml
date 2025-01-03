@@ -6,4 +6,4 @@ logging:
 
 databaseUrl: jdbc:mysql://db:3306/todo_schema?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
 databaseUser: root
-databasePassword: Jogendra@1507
+databasePassword: 1234
